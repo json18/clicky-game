@@ -1,0 +1,18 @@
+.jumbotron {
+    background: #f9b713;
+    height: 200px;
+  }
+
+.jumbotron h1 {
+    margin: 0;
+    text-align: center;
+    color: white;
+    font-size: 3rem;
+  }
+  
+.jumbotron p {
+    margin: 0;
+    text-align: center;
+    color: white;
+  }
+  
