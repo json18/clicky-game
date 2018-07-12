@@ -17,7 +17,7 @@ import "./Image.css";
 const Image = props => (
     <div className="image">
       <div className="img-container">
-        <img src={props.image} />
+        <img className="imageClass" alt="" src={props.image} />
       </div>
     </div>
   );
